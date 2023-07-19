@@ -7,6 +7,8 @@
 
 [SQL Analysis - Code](https://github.com/SharifAthar/Hospice-General-Information-EDA-Project/blob/main/SQL%20Analysis%20Hospice%20Gen%20Info.sql)
 
+[Hospice Dashboard - Tableau](https://public.tableau.com/app/profile/sharif.athar/viz/USAHospiceDashboard/Dashboard1)
+
 ## Introduction
 - **What is an EDA?**
   
